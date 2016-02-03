@@ -1,0 +1,21 @@
+{
+  "name": "es6talk",
+  "version": "1.0.0",
+  "description": "A talk about why ES6 is a basket of kittens and not a cat butt",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "es6talk"
+  },
+  "keywords": [
+    "es6",
+    "slides",
+    "talks",
+    "falls"
+  ],
+  "author": "Damon Muma",
+  "license": "ISC"
+}
